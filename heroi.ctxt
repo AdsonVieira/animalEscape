@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=heroi
+comment0.text=\n\ Write\ a\ description\ of\ class\ heroi\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ trocaCena()
+comment3.params=
+comment3.target=void\ movimentar()
+comment4.params=
+comment4.target=void\ pegaUrso()
+comment5.params=
+comment5.target=void\ pegatart()
+comment6.params=
+comment6.target=void\ barreira()
+numComments=7
